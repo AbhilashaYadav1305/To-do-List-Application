@@ -3,6 +3,7 @@ An application to keep track of your Daily to Do's built using Express, Node.js,
 
 ## Features
 * Static content and views will be served from /public directory
+* Deployed on Heroku cloud platform as a service @[Link](https://polar-temple-78655.herokuapp.com/).
 
 ## Setup Instructions
 * Download or clone the repo
